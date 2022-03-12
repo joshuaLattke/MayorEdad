@@ -1,0 +1,4 @@
+calcular si la persona es mayor o menor de edad
+compilacion con javac MayorEdad.java
+luego cd..
+Despues java ui/MayorEdad
